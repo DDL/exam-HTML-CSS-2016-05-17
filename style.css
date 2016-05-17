@@ -1,0 +1,41 @@
+body {
+  box-sizing: border-box;
+  font-family: arial;
+  font-size: 14px;
+}
+
+.card {
+  width: 540px;
+  height: 185px;
+  border: 2px solid #000;
+  background-color: #aaa;
+  display: flex;
+}
+
+.duck-img {
+  padding: 20px 20px 30px 20px;
+  border-right: 1px solid #000;
+}
+
+.main-content {
+  padding: 10px;
+}
+
+header {
+  font-size: 24px;
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.td-pad {
+  padding-left: 50px;
+}
+
+.pen-icon {
+  flex-direction: column;
+  align-self: flex-end;
+  padding: 20px;
+}
