@@ -10,10 +10,11 @@ body {
   border: 2px solid #000;
   background-color: #aaa;
   display: flex;
+  padding: 12px;
 }
 
 .duck-img {
-  padding: 20px 20px 30px 20px;
+  padding: 20px 20px 30px 10px;
   border-right: 1px solid #000;
 }
 
